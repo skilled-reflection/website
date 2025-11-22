@@ -47,7 +47,7 @@ In the garden, the costs of goals are grounded in their most basic sense: time a
 ## Goal  
 
 The following are core concepts for application beyond the garden.
-A goal names an ideal future reality, comprises a plan to increase its likelihood, associated with chud.
+A goal names an ideal future reality, comprises a plan to increase its likelihood, associated with CHUD.
 These three things encompass all cognitive activity related to reality.
 Call anything that could be true, but isn't right now, a goal, and any effort in support of making it true a plan.
 It is *your* goal if you aim to increase its probability of being true.
