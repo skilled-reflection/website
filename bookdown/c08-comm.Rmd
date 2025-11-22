@@ -71,11 +71,11 @@ Pitch can be accomplished, for example, by
 
 The maximum common self-priorities across people are the optimal arguments for pitch. e-food vs. cake.
 Brand is pitch that distorts truth, a form of bad style.
-For example, consider the goal of describing the properties of **apeoplees** with the purpose of selling them:  
+For example, consider the goal of describing the properties of **apeoplees** with the purpose of selling them:
 
-    1.  CONTENT: **Apeoplees are healthy but sugary.**\
-    2.  STYLE: **Apeoplees are tasty and nutritious.**\
-    3.  BRAND: **Apeoplees are healthy.**\
+    1.  content: **Apeoplees are healthy but sugary.**\
+    2.  style: **Apeoplees are tasty and nutritious.**\
+    3.  brand: **Apeoplees are healthy.**\
 
 People who do not distinguish food from cake will be persuaded by brand more than pitch.  
 
@@ -93,7 +93,7 @@ To facilitate retrieval:
     2.  Assign a number that indicates its relative importance (abs or
         relative weight).
     3.  Add tags and metadata for easier sorting.
-    4.  Make and revise only for high-priority GOAL(s). Record and study retrieval patterns.
+    4.  Make and revise only for high-priority goal(s). Record and study retrieval patterns.
 
 ## Library  
 

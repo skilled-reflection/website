@@ -110,8 +110,8 @@ Assert boundaries against exaggerated or excessive words.
 
 The real world is particular; each experience is an example.
 A word describes a set of similar experiences.
-    1.  WORDS are never definite and certain in what they describe of the real world.
-    2.  A WORD's definition is a generalization.
+    1.  words are never definite and certain in what they describe of the real world.
+    2.  A word's definition is a generalization.
 As such, words are
     1.  less precise than reality.
     2.  better designed to hypothesize and predict.
